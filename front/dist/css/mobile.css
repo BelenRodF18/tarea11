@@ -1,0 +1,11 @@
+@media (max-width: 600px) {
+    body {
+        padding: 24px 14px;
+        font-size: 14px;
+    }
+
+    th,
+    td {
+        padding: 6px 8px;
+    }
+}
